@@ -1,0 +1,5 @@
+Grafo.py, GrafoLista.py, PrafoMatriz.py, VerticeLista.py: classes.
+
+CriacaoGrafoJSON.py: arquivo para criação de grafo armazenado em arquivo .json.
+
+check1Lista.py e check1Matriz.py: Leitura de arquivo .json e execução de métodos de teste.
